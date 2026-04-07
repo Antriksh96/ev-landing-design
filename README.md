@@ -48,7 +48,8 @@ ev-landing-design/
 
 ---
 
-![Homepage](./screenshots/home.png)
+🖼️ Preview  
+![Currency Converter Screenshot](Screenshot_main.png)
 
 ---
 
