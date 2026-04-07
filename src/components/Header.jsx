@@ -8,10 +8,10 @@ function Header() {
         <div className="nav">
           <div className="nav-logo">Ev-Olution</div>
             <ul className="list">
-               <li>Home</li>
-               <li>Expolar</li>
-               <li>About</li>
-               <li className="contact">Contact</li>
+               <li className="headertxt">Home</li>
+               <li className="headertxt">Expolar</li>
+               <li className="headertxt">About</li>
+               <li className="contact headertxt">Contact</li>
             </ul>
        </div>
       )
